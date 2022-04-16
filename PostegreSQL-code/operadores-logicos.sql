@@ -1,0 +1,2 @@
+-- types
+--  LIKE, NOT LIKE, BETWEEN, NOT BETWEEN, IN, NOT IN
