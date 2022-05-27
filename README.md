@@ -1,2 +1,2 @@
-# SQL-expert
-SQL-Expert
+# expert-sqlt
+expert-sql
